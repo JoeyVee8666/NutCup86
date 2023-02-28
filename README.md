@@ -1,13 +1,3 @@
-- 👋 Hi, I’m @NutCup86
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-NutCup86/NutCup86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Into crypto since the dinosaur age, newish to the dev environment. Let's collab?
 
 
-someoene please reach out to me with the information i need to know about my identity.
